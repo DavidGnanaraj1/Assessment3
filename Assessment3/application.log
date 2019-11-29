@@ -1,0 +1,723 @@
+2019-11-22 19:29:28,848  INFO [main] LogReport:22 - IE browser opens
+2019-11-22 19:29:32,218  INFO [main] LogReport:22 - Application is open
+2019-11-23 12:55:33,001  INFO [main] LogReport:22 - IE browser opens
+2019-11-23 12:55:41,217  INFO [main] LogReport:22 - Application is open
+2019-11-25 09:58:13,209  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 09:58:20,130  INFO [main] LogReport:22 - Application is open
+2019-11-25 09:58:54,926  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 09:58:58,497  INFO [main] LogReport:22 - Application is open
+2019-11-25 10:00:05,394  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 10:00:08,771  INFO [main] LogReport:22 - Application is open
+2019-11-25 10:05:20,850  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 10:05:24,268  INFO [main] LogReport:22 - Application is open
+2019-11-25 10:06:38,657  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 10:06:41,726  INFO [main] LogReport:22 - Application is open
+2019-11-25 10:08:57,995  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 10:09:01,603  INFO [main] LogReport:22 - Application is open
+2019-11-25 10:10:20,272  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 10:10:24,986  INFO [main] LogReport:22 - Application is open
+2019-11-25 10:30:25,713  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 10:30:28,655  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:08:14,106  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:08:18,073  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:08:40,711  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:08:44,034  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:10:53,962  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:10:56,784  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:11:23,539  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:11:26,828  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:36:53,181  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:36:56,967  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:37:36,216  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:37:39,108  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:38:31,078  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:38:33,485  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:39:51,722  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:39:54,368  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:41:01,316  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:41:03,009  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:41:38,809  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:41:41,952  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:42:35,797  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:42:38,325  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:43:38,343  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 12:43:40,674  INFO [main] LogReport:22 - Application is open
+2019-11-25 12:43:46,602  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (13dceea4-c3d5-4bd5-9c90-570b29988354)] -> xpath: //a[@href='#bookings']]not selected 
+2019-11-25 13:42:22,893  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 13:42:25,896  INFO [main] LogReport:22 - Application is open
+2019-11-25 13:47:57,621  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 13:47:59,705  INFO [main] LogReport:22 - Application is open
+2019-11-25 13:48:04,404  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (bd56a0ce-75c4-4acd-a893-fb76cdbd9591)] -> xpath: //a[@href='#bookings']]not selected 
+2019-11-25 13:50:20,776  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 13:50:23,020  INFO [main] LogReport:22 - Application is open
+2019-11-25 13:50:27,691  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (f18a2731-5b68-4743-9ceb-0012fd4a1c78)] -> xpath: //a[@href='#bookings']]not selected 
+2019-11-25 13:53:01,926  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 13:53:04,618  INFO [main] LogReport:22 - Application is open
+2019-11-25 13:53:09,312  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (1243fbcb-0d8a-40ba-998d-626a898dbb58)] -> xpath: (//li[@class='nav-item'])[1]]not selected 
+2019-11-25 13:54:31,147  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 13:54:33,866  INFO [main] LogReport:22 - Application is open
+2019-11-25 13:54:38,550  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (a4ced04d-5e29-4632-a503-75bc04159511)] -> xpath: (//li[@class='nav-item'])[1]]not selected 
+2019-11-25 14:25:30,052  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:25:32,641  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:26:53,335  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:26:56,605  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:28:57,010  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:28:59,317  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:30:14,735  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:30:17,052  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:30:22,914  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (4804056e-d69b-4cb4-a656-09fd7c6d139c)] -> xpath: (//li[@class='nav-item'])[1]]not selected 
+2019-11-25 14:34:36,279  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:34:39,181  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:38:55,673  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:38:57,815  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:40:12,649  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:40:15,070  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:40:20,976  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (0c072776-dc5c-42a3-ad09-65c9f377d65f)] -> xpath: (//li[@class='nav-item'])[1]]not selected 
+2019-11-25 14:42:28,783  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:42:31,620  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:42:37,714  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (55d25125-3ca9-446c-93d6-bd8415bc2c72)] -> xpath: (//li[@class='nav-item'])[1]]not selected 
+2019-11-25 14:47:03,707  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:47:06,350  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:47:12,598  INFO [main] LogReport:22 - [[InternetExplorerDriver: internet explorer on WINDOWS (1d334b5b-d58b-44ff-b5c8-0097f1475f54)] -> xpath: (//li[@class='nav-item'])[1]]not selected 
+2019-11-25 14:52:08,713  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:52:11,192  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:52:59,297  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:53:01,171  INFO [main] LogReport:22 - Application is open
+2019-11-25 14:54:43,507  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 14:54:46,206  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:13:05,972  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:13:08,402  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:14:15,890  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:14:18,723  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:19:54,626  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:19:56,769  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:20:40,529  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:20:42,850  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:20:48,716  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-25 15:21:55,442  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:21:57,767  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:22:03,659  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-25 15:49:46,247  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:49:48,053  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:52:12,359  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:52:14,852  INFO [main] LogReport:22 - Application is open
+2019-11-25 15:52:59,544  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 15:53:02,004  INFO [main] LogReport:22 - Application is open
+2019-11-25 16:58:13,888  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 16:58:16,865  INFO [main] LogReport:22 - Application is open
+2019-11-25 17:04:43,476  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 17:04:46,782  INFO [main] LogReport:22 - Application is open
+2019-11-25 17:09:07,541  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 17:09:10,394  INFO [main] LogReport:22 - Application is open
+2019-11-25 17:10:22,777  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 17:10:25,174  INFO [main] LogReport:22 - Application is open
+2019-11-25 17:24:20,717  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 17:24:22,798  INFO [main] LogReport:22 - Application is open
+2019-11-25 17:38:38,663  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 17:38:41,602  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:29:24,221  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:29:28,040  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:31:04,301  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:31:06,725  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:33:27,724  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:33:30,359  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:34:48,585  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:34:53,407  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:39:22,647  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:39:24,985  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:40:54,950  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:40:56,793  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:42:59,083  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:43:01,186  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:43:38,137  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:43:41,050  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:49:49,787  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:49:51,643  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:51:16,134  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:51:18,525  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:52:15,537  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:52:17,672  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:56:09,930  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:56:12,532  INFO [main] LogReport:22 - Application is open
+2019-11-25 20:58:00,509  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 20:58:02,957  INFO [main] LogReport:22 - Application is open
+2019-11-25 21:00:44,428  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 21:00:47,140  INFO [main] LogReport:22 - Application is open
+2019-11-25 21:01:18,596  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 21:01:20,666  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:07:00,564  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:07:03,200  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:07:41,663  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:07:43,707  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:14:49,206  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:14:51,353  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:15:29,884  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:15:32,224  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:16:21,061  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:16:23,553  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:17:42,012  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:17:44,579  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:21:35,904  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:21:38,204  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:24:02,224  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:24:04,463  INFO [main] LogReport:22 - Application is open
+2019-11-25 22:24:51,277  INFO [main] LogReport:22 - IE browser opens
+2019-11-25 22:24:53,555  INFO [main] LogReport:22 - Application is open
+2019-11-26 11:26:02,037  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 11:26:05,513  INFO [main] LogReport:22 - Application is open
+2019-11-26 11:26:12,929  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:24:19,117  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:24:21,921  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:25:08,094  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:25:10,645  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:25:16,982  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:30:27,135  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:30:29,817  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:30:35,773  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:31:29,837  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:31:32,182  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:31:38,259  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:34:02,129  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:34:04,612  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:34:10,765  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:38:11,228  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:38:13,743  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:38:19,878  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:51:48,937  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:51:51,377  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:51:57,568  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:52:52,059  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:52:54,433  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:53:00,692  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 12:54:24,112  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 12:54:26,531  INFO [main] LogReport:22 - Application is open
+2019-11-26 12:54:33,051  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:12:07,016  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 13:12:09,598  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:12:15,363  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:15:33,915  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 13:15:36,347  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:15:42,048  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:17:15,557  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 13:17:17,794  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:17:23,581  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:20:57,115  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 13:20:59,775  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:21:05,712  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:23:53,987  INFO [main] LogReport:22 - IE browser opens
+2019-11-26 13:23:56,210  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:24:02,143  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:24:56,090  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 13:25:01,490  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:25:07,670  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:26:09,363  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 13:26:13,763  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:26:19,385  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:28:35,980  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 13:28:39,175  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:28:44,658  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:30:10,386  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 13:30:14,929  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:30:20,374  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 13:31:49,243  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 13:31:53,841  INFO [main] LogReport:22 - Application is open
+2019-11-26 13:31:59,512  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 14:48:15,985  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 14:48:23,076  INFO [main] LogReport:22 - Application is open
+2019-11-26 14:48:30,470  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:02:49,454  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:02:53,248  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:02:58,597  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:05:15,528  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:05:19,441  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:05:25,069  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:09:59,234  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:10:05,511  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:10:12,666  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:10:59,089  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:11:03,196  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:11:09,299  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:12:11,955  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:12:16,522  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:12:22,261  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:14:20,753  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:14:24,482  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:14:30,068  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:27:38,953  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:27:42,327  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:27:48,026  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:29:01,564  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:29:06,730  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:29:12,212  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:37:44,260  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:38:33,466  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:38:38,340  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:38:43,876  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:40:36,599  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:40:41,251  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:40:46,702  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:47:37,510  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:47:42,943  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:47:48,579  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 15:54:57,841  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 15:55:03,214  INFO [main] LogReport:22 - Application is open
+2019-11-26 15:55:08,995  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 16:00:54,138  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 16:00:58,173  INFO [main] LogReport:22 - Application is open
+2019-11-26 16:01:03,802  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 16:01:53,882  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 16:01:57,252  INFO [main] LogReport:22 - Application is open
+2019-11-26 16:02:02,998  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 16:09:25,625  INFO [main] LogReport:22 - Chrome browser opens
+2019-11-26 16:09:29,614  INFO [main] LogReport:22 - Application is open
+2019-11-26 16:09:35,451  INFO [main] LogReport:22 - Bookings tab is selected
+2019-11-26 16:58:24,926  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 16:58:29,300  INFO [main] LogReport:26 - Application is open
+2019-11-26 16:58:35,014  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:10:13,965  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:10:18,125  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:10:23,543  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:15:18,425  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:15:24,354  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:15:29,952  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:17:47,346  INFO [main] LogReport:26 - Firefox browser opens
+2019-11-26 17:17:52,043  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:17:56,646  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:21:18,492  INFO [main] LogReport:26 - Firefox browser opens
+2019-11-26 17:21:21,979  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:21:26,450  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:22:13,294  INFO [main] LogReport:26 - Firefox browser opens
+2019-11-26 17:22:17,547  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:22:22,102  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:24:33,514  INFO [main] LogReport:26 - Firefox browser opens
+2019-11-26 17:24:37,875  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:24:42,243  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:31:21,352  INFO [main] LogReport:26 - Firefox browser opens
+2019-11-26 17:31:28,531  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:31:33,025  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:33:05,086  INFO [main] LogReport:26 - Firefox browser opens
+2019-11-26 17:33:09,460  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:33:13,882  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:33:54,273  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:33:58,122  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:34:03,615  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:39:43,637  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:39:47,911  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:39:53,381  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:40:48,160  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:40:51,065  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:40:56,747  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:43:30,955  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:43:35,023  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:43:40,615  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:46:56,993  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:47:04,830  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:47:10,435  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 17:47:42,173  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 17:47:45,673  INFO [main] LogReport:26 - Application is open
+2019-11-26 17:47:53,131  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 19:31:34,520  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 19:31:42,438  INFO [main] LogReport:26 - Application is open
+2019-11-26 19:31:49,308  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 19:33:10,807  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 19:33:16,238  INFO [main] LogReport:26 - Application is open
+2019-11-26 19:33:21,989  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 19:36:35,483  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 19:36:40,034  INFO [main] LogReport:26 - Application is open
+2019-11-26 19:36:45,912  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 19:37:49,339  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 19:37:54,572  INFO [main] LogReport:26 - Application is open
+2019-11-26 19:39:29,665  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 19:39:34,021  INFO [main] LogReport:26 - Application is open
+2019-11-26 19:39:39,525  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:00:58,209  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:01:02,353  INFO [main] LogReport:26 - Application is open
+2019-11-26 20:01:08,077  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:27:48,317  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:27:56,750  INFO [main] LogReport:26 - Application is open
+2019-11-26 20:28:02,299  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:28:54,830  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:28:59,355  INFO [main] LogReport:26 - Application is open
+2019-11-26 20:29:06,592  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:29:44,513  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:29:51,396  INFO [main] LogReport:26 - Application is open
+2019-11-26 20:29:58,652  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:31:57,569  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:32:15,604  INFO [main] LogReport:26 - Application is open
+2019-11-26 20:32:22,496  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:32:55,831  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:33:02,626  INFO [main] LogReport:26 - Application is open
+2019-11-26 20:33:09,177  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 20:36:32,393  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 20:36:41,175  INFO [main] LogReport:26 - Application is open
+2019-11-26 21:17:11,038  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 21:17:18,042  INFO [main] LogReport:26 - Application is open
+2019-11-26 21:18:40,672  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 21:18:44,050  INFO [main] LogReport:26 - Application is open
+2019-11-26 21:18:49,667  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-26 21:21:54,012  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-26 21:21:58,196  INFO [main] LogReport:26 - Application is open
+2019-11-26 21:22:04,473  INFO [main] LogReport:26 - Bookings tab is selected
+2019-11-29 09:00:33,033  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:00:37,654  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:18:50,035  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:18:56,817  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:18:58,225 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-29 09:18:58,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-29 09:18:58,230 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-29 09:18:58,239 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-29 09:18:58,240 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-29 09:20:51,882  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:20:56,334  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:20:57,728 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-29 09:20:57,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-29 09:20:57,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-29 09:20:57,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-29 09:20:57,734 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-29 09:36:08,105  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:36:13,146  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:36:14,597 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-29 09:36:14,615 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-29 09:36:14,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-29 09:36:14,626 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-29 09:36:14,627 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-29 09:47:04,853  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:47:08,434  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:47:09,833 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-29 09:47:09,835 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-29 09:47:09,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-29 09:47:09,847 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-29 09:47:09,849 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-29 09:51:55,374  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:51:58,809  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:52:00,215 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-29 09:52:00,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-29 09:52:00,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-29 09:52:00,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-29 09:52:00,229 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-29 09:52:28,067  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 09:52:35,877  INFO [main] LogReport:26 - Application is open
+2019-11-29 09:52:37,300 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-29 09:52:37,303 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-29 09:52:37,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-29 09:52:37,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-29 09:52:37,315 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-29 10:11:28,836  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 10:11:33,095  INFO [main] LogReport:26 - Application is open
+2019-11-29 10:13:06,916  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 10:13:11,711  INFO [main] LogReport:26 - Application is open
+2019-11-29 10:14:33,201  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 10:14:37,835  INFO [main] LogReport:26 - Application is open
+2019-11-29 10:15:32,829  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 10:15:36,972  INFO [main] LogReport:26 - Application is open
+2019-11-29 10:16:42,677  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 10:16:47,645  INFO [main] LogReport:26 - Application is open
+2019-11-29 10:47:37,891  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 10:47:43,479  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:08:51,080  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:08:57,844  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:13:59,951  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:14:03,884  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:20:15,117  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:20:19,304  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:22:57,589  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:23:02,437  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:27:37,942  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:27:42,124  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:29:04,562  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:29:09,617  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:30:10,406  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:30:16,678  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:32:29,733  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 11:32:34,125  INFO [main] LogReport:26 - Application is open
+2019-11-29 11:32:35,644  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:00:29,379  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:00:36,750  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:00:38,347  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:04:00,132  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:04:04,083  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:04:05,687  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:04:48,483  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:04:53,242  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:04:55,041  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:07:30,973  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:07:35,760  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:07:37,399  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:18:51,415  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:18:55,208  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:18:56,805  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:25:58,076  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:26:02,884  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:26:04,358  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:31:37,995  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:31:41,982  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:31:43,598  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:32:35,872  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:32:40,461  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:32:41,954  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:36:43,683  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:36:49,698  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:36:51,565  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:38:21,518  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:38:25,591  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:38:27,213  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:40:35,459  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:40:39,642  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:40:41,122  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:41:35,613  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:41:41,577  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:41:43,223  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:44:04,617  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:44:08,627  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:44:10,131  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:44:44,882  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:44:48,632  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:44:50,276  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:45:38,436  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:45:42,360  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:45:43,915  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:47:14,182  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:47:19,048  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:47:20,615  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:58:30,110  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 12:58:37,597  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:58:39,229  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 12:59:24,850  INFO [main] LogReport:26 - IE browser opens
+2019-11-29 12:59:32,402  INFO [main] LogReport:26 - Application is open
+2019-11-29 12:59:32,876  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:00:24,383  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:00:33,158  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:00:34,668  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:04:14,671  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:04:21,371  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:04:23,073  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:16:18,139  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:16:24,543  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:16:26,188  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:31:31,733  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:31:38,128  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:31:39,831  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:37:28,557  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:37:33,976  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:37:35,596  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:40:05,578  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:40:10,590  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:40:12,185  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:41:30,540  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:41:36,592  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:41:38,107  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:42:51,640  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:42:56,671  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:42:58,164  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:45:36,327  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:45:41,306  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:45:42,837  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:46:07,956  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:46:13,315  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:46:14,953  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:49:18,444  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:49:24,134  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:49:25,562  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:51:08,914  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:51:14,681  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:51:16,198  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 13:54:25,783  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 13:54:30,962  INFO [main] LogReport:26 - Application is open
+2019-11-29 13:54:32,561  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:00:40,096  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:00:45,903  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:00:47,500  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:06:07,310  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:06:12,015  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:07:59,305  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:08:04,087  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:09:04,638  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:09:12,604  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:09:51,795  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:09:55,915  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:10:06,504  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:10:10,809  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:13:55,222  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:13:59,055  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:14:00,637  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:16:43,954  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:16:48,619  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:16:50,486  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:18:20,402  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:18:25,311  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:18:26,692  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:19:36,103  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:19:41,336  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:19:42,886  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:22:44,664  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:22:49,169  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:22:50,826  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:24:24,175  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:24:28,874  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:24:30,732  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:26:56,118  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:27:00,875  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:27:02,445  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:33:09,042  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:33:14,256  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:33:15,784  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 14:39:18,258  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:39:22,807  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:41:48,521  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:41:54,243  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:44:59,246  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 14:45:03,288  INFO [main] LogReport:26 - Application is open
+2019-11-29 14:45:04,781  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:22:00,970  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:22:05,241  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:28:32,947  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:28:37,249  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:28:38,722  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:41:41,216  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:41:45,303  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:41:47,110  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:43:19,829  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:43:25,778  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:43:28,685  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:45:49,310  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:45:54,045  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:45:55,713  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:46:22,209  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:46:26,281  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:46:27,967  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:47:48,826  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:47:55,847  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:47:57,682  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:52:42,447  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:52:46,449  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:52:48,175  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:53:47,097  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:53:51,515  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:53:53,220  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 15:54:57,666  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 15:55:01,701  INFO [main] LogReport:26 - Application is open
+2019-11-29 15:55:03,294  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 16:00:07,125  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:00:11,950  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:00:13,652  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 16:01:48,289  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:01:53,555  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:01:55,223  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 16:03:16,060  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:03:20,302  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:03:21,997  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 16:05:18,326  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:05:22,827  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:05:24,453  INFO [main] LogReport:26 - PageTitle validated
+2019-11-29 16:21:29,314  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:21:39,074  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:22:20,609  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:22:29,376  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:22:30,947  INFO [main] LogReport:26 - CheckIn date9CheckOut date11
+2019-11-29 16:23:10,832  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:23:21,065  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:23:22,572  INFO [main] LogReport:26 - CheckIn date-9CheckOut date-11
+2019-11-29 16:24:51,189  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:24:59,087  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:25:00,533  INFO [main] LogReport:26 - CheckIn date-25CheckOut date-27
+2019-11-29 16:36:25,684  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:36:32,071  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:36:33,664  INFO [main] LogReport:26 - CheckIn date-25CheckOut date-27
+2019-11-29 16:37:18,854  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 16:37:25,675  INFO [main] LogReport:26 - Application is open
+2019-11-29 16:37:27,159  INFO [main] LogReport:26 - CheckIn date-25CheckOut date-27
+2019-11-29 17:31:32,858  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 17:31:35,365  INFO [main] LogReport:26 - Application is open
+2019-11-29 17:31:49,689  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 17:31:59,057  INFO [main] LogReport:26 - Application is open
+2019-11-29 17:32:11,754  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 17:32:20,603  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:01:40,073  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:01:52,376  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:02:23,171  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:02:38,132  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:02:41,553  INFO [main] LogReport:26 - CheckIn date-25CheckOut date-27
+2019-11-29 18:03:24,416  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:03:41,963  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:03:43,850  INFO [main] LogReport:26 - CheckIn date-25CheckOut date-27
+2019-11-29 18:06:09,164  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:06:25,345  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:06:27,558  INFO [main] LogReport:26 - CheckIn date-25 CheckOut date-27
+2019-11-29 18:35:10,461  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:35:18,768  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:44:04,881  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:44:12,438  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:46:35,390  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:46:44,866  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:47:45,947  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:47:52,833  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:49:48,592  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:49:56,592  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:49:58,125  INFO [main] LogReport:26 - Result of Hotel Search page verified
+2019-11-29 18:49:58,189  INFO [main] LogReport:26 - CheckIn date and CheckOut dates are25,27
+2019-11-29 18:49:58,720  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:49:59,063  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:49:59,307  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:49:59,549  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:49:59,759  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:49:59,956  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:00,182  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:00,384  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:00,574  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:00,763  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:00,942  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:01,138  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:01,328  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:01,526  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:01,747  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:01,947  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:02,145  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:02,348  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:02,587  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:02,786  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:02,993  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:03,188  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:03,375  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:03,577  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:03,760  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:03,942  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:04,110  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:04,285  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:04,440  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:04,599  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:50:04,815  INFO [main] LogReport:26 - Found the four star rating hotel with the lowest price
+2019-11-29 18:52:14,298  INFO [main] LogReport:26 - Chrome browser opens
+2019-11-29 18:52:21,344  INFO [main] LogReport:26 - Application is open
+2019-11-29 18:52:22,780  INFO [main] LogReport:26 - Result of Hotel Search page verified
+2019-11-29 18:52:22,797  INFO [main] LogReport:26 - CheckIn date and CheckOut dates are25,27
+2019-11-29 18:52:23,226  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:23,478  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:23,720  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:23,901  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:24,099  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:24,365  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:24,587  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:24,783  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:24,977  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:25,156  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:25,360  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:25,538  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:25,725  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:25,951  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:26,160  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:26,348  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:26,551  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:26,766  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:26,988  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:27,205  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:27,470  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:27,679  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:27,857  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:28,061  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:28,277  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:28,465  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:28,656  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:28,863  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:29,051  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:29,222  INFO [main] LogReport:26 - Found all the Hotel in the 4 star rating with lowest price
+2019-11-29 18:52:29,505  INFO [main] LogReport:26 - Found the four star rating hotel with the lowest price

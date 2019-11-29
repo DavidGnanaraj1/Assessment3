@@ -1,0 +1,62 @@
+# Created at 2019-11-29T09:51:55.121
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-11-29T09:51:55.343
+Unexpected IOException with stream: Nov 29, 2019 9:51:55 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2019-11-29T09:51:55.374
+Unexpected IOException with stream: 11-29-2019 09:51:55 LogReport.java INFO  [main] reports.LogReport 26 - Chrome browser opens
+
+
+# Created at 2019-11-29T09:51:58.810
+Unexpected IOException with stream: 11-29-2019 09:51:58 LogReport.java INFO  [main] reports.LogReport 26 - Application is open
+
+
+# Created at 2019-11-29T09:52:00.116
+Unexpected IOException: 5,1,com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator,policyDateEvaluator(com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator),com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator,null,null
+
+
+# Created at 2019-11-29T09:52:00.156
+Unexpected IOException: 8,1,com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator,policyDateEvaluator(com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator),null,null,null,null,PolicyDateEvaluator.policyDateEvaluator:71 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator.policyDateEvaluator(PolicyDateEvaluator.java:71)\000A
+
+
+# Created at 2019-11-29T09:52:00.161
+Unexpected IOException with stream: 20191129095200
+
+
+# Created at 2019-11-29T09:52:00.164
+Unexpected IOException: 8,1,com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator,getReport(com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator),null,null,null,null,PolicyDateEvaluator>ExtentReport.getReport:49->ExtentReport.getScreenshot:35 \00BB NullPointer,java.lang.NullPointerException\000A
+
+
+# Created at 2019-11-29T09:52:00.216
+Unexpected IOException with stream: 11-29-2019 09:52:00 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+
+
+# Created at 2019-11-29T09:52:00.220
+Unexpected IOException with stream: 11-29-2019 09:52:00 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+
+
+# Created at 2019-11-29T09:52:00.224
+Unexpected IOException with stream: 11-29-2019 09:52:00 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+
+
+# Created at 2019-11-29T09:52:00.227
+Unexpected IOException with stream: 11-29-2019 09:52:00 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+
+
+# Created at 2019-11-29T09:52:00.231
+Unexpected IOException with stream: 11-29-2019 09:52:00 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+
+
+# Created at 2019-11-29T09:52:01.281
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

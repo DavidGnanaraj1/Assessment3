@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BookingHotels_Suite]">
+  <test thread-count="5" name="AssessmentTest(failed)">
+    <classes>
+      <class name="com.atmecs.assessmenttask.testscripts.BookingHotels_Automation">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="bookingHotels"/>
+        </methods>
+      </class> <!-- com.atmecs.assessmenttask.testscripts.BookingHotels_Automation -->
+    </classes>
+  </test> <!-- AssessmentTest(failed) -->
+</suite> <!-- Failed suite [BookingHotels_Suite] -->

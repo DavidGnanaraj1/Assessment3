@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [AssessmentSuite (0)]">
+  <test thread-count="5" verbose="0" name="AssessmentTest(failed)">
+    <classes>
+      <class name="com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator">
+        <methods>
+          <include name="startReports"/>
+          <include name="initializeBrowser"/>
+          <include name="getClose"/>
+          <include name="policyDateEvaluator"/>
+          <include name="getReport"/>
+        </methods>
+      </class> <!-- com.atmecs.Assessment3.assessmenttask.testscripts.PolicyDateEvaluator -->
+    </classes>
+  </test> <!-- AssessmentTest(failed) -->
+</suite> <!-- Failed suite [AssessmentSuite (0)] -->
