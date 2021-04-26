@@ -11,7 +11,7 @@
 		<testng.version>6.14.3</testng.version>
 		<poi-ooxml.version>4.1.0</poi-ooxml.version>
 		<extentreports.version>2.41.2</extentreports.version>
-		<commons-io.version>2.4</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
